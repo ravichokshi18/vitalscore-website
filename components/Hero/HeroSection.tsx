@@ -132,10 +132,8 @@ export default function HeroSection() {
           </h1>
 
           {/* Subtitle */}
-          <p className="hero-subtitle text-lg md:text-xl text-gray-400 max-w-2xl mb-8 leading-relaxed">
-            VitalScore predicts your health — not just tracks it.
-            See tomorrow's recovery score, catch illness early,
-            and get personalized recommendations that actually work.
+          <p className="hero-subtitle text-lg md:text-xl text-gray-400 max-w-xl mb-8">
+            Predict tomorrow's recovery. Catch illness early. Get recommendations that work.
           </p>
 
           {/* CTA */}
